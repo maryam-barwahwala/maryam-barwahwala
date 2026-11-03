@@ -14,7 +14,7 @@ I build AI-powered workflows that take over repetitive tasks, so people can spen
 
 | Project | What it does | Tools |
 |---|---|---|
-| Finance Tracker (link-to-repo) | Logs expenses from a chat message, updates the balance in Google Sheets, and emails an alert when it drops to 5,000 or below | n8n, Gemini, Google Sheets, Gmail |
+| AI Finance Tracker (link-to-repo) | Logs expenses from a chat message, updates the balance in Google Sheets, and emails an alert when it drops to 5,000 or below | n8n, Gemini, Google Sheets, Gmail |
 
 
 ## 📚 Currently Learning
