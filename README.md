@@ -14,7 +14,7 @@ I build AI-powered workflows that take over repetitive tasks, so people can spen
 
 | Project | What it does | Tools |
 |---|---|---|
-| AI Finance Tracker ([link-to-repo](https://github.com/maryam-barwahwala/finance-tracker)) | Logs expenses from a chat message, updates the balance in Google Sheets, and emails an alert when it drops to 5,000 or below | n8n, Gemini, Google Sheets, Gmail |
+| [AI Finance Tracker]([link-to-repo](https://github.com/maryam-barwahwala/finance-tracker)) | Logs expenses from a chat message, updates the balance in Google Sheets, and emails an alert when it drops to 5,000 or below | n8n, Gemini, Google Sheets, Gmail |
 | [Customer Support Agent](https://github.com/maryam-barwahwala/customer-support-rag-agent) | Reads incoming emails, searches company FAQs and policy documents using RAG, and drafts and sends professional replies via Gmail | n8n, RAG, Gemini, Gmail |
 
 
